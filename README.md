@@ -1,23 +1,46 @@
-# Code Institute
+# Studiofettle Mind & Body Studio
 
-Welcome USER_NAME,
+## Aim 
 
-We have preinstalled all of the tools you need to get started.
 
-To run a frontend application in GitPod, in the terminal, type:
+## Purpose
 
-`python3 -m http.server`
 
-A blue button should appear to click: *Expose*,
+## UX
+### User stories
 
-Another blue button should appear to click: *Open Browser*.
+**Owner**
 
-To run a backend python file, type `python3 app.py`, if your python file is named `app.py` of course.
 
-A blue button should appear to click: *Expose*,
+ **Current client**
 
-Another blue button should appear to click: *Open Browser*.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons. 
+**Potential client**
 
-Happy coding!
+
+### The 5 planes
+
+### Strategy
+### Scope
+### Structure
+### Skeleton
+#### Wireframes
+### Surface
+
+## Features
+### Existing Features
+### Future Features
+
+## Technologies Used
+
+## Testing
+
+## Deployment
+
+## Credits
+### Websites reviewed
+### Media used
+
+### Acknowledgements
+
+*created for education purposes only*
