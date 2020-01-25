@@ -60,7 +60,12 @@ h2 {
     padding: 30px;
 }
 
-h2 p {
-text-align: center;
-}
 
+/* copyright footer */
+
+footer {
+    font-family: 'Ubuntu', sans-serif;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
