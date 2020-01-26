@@ -2,12 +2,25 @@
 
 /*-----------------------colors----------------*/
 
-.bg-color-navbar {
-background-color: #ffe499;
-}
-
 body {
     background-color: #a3a375;
+}
+
+.bg-color-navbar {
+    background-color: #ffe499;
+}
+
+
+.ui-menu-color-home {
+    background-color: #7035b4;
+}
+
+.ui-menu-color-meet-the-team {
+    background-color: #4835b4;
+}
+
+.ui-menu-color-contact-us {
+    background-color: #35b45b;
 }
 
 /*-----------------------header----------------*/
@@ -18,7 +31,6 @@ margin: 50px;
 
 .heading {
 margin-left: 50px;
-
 }
 
 .logo {
@@ -36,23 +48,42 @@ transition: all .5s ease-in-out;
 
 .navbar {
     font-family: "ubuntu", sans-serif;
-    font-weight: 100px;
-    font-size: 46px;
-    margin-top: 100px;
-    color: #fff;
-    
+    font-size: 20px;
+    margin-top: 5px;
+    margin-right: 15px;
 }
 
 /*company name */
+
 h1 {
     font-family: 'Ubuntu', sans-serif;
     font-size: 50px;
     color: grey;
-    text-align: right;
+    text-align: center;
     padding: 30px;
 }
 
-/*section titles */
+/*company philosophy */
+h3 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    color: grey;
+    text-align: center;
+    text-decoration: underline;
+    padding: 10px;
+}
+
+p, h3 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    color: grey;
+    text-align: center;
+    padding: 10px;
+}
+
+
+/*section title - About us  */
+
 h2 {
     font-family: 'Ubuntu', sans-serif;
     font-size: 50px;
