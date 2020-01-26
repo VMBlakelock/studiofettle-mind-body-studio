@@ -70,6 +70,28 @@ As a potential client, the user would like to -
 ### Structure
 ### Skeleton
 #### Wireframes
+
+Wireframes were created for Desktop and Mobile devices in the first instance as drawings and then recreated using Balsamiq.
+
+
+The initial idea with the owner was to have a Home page, About/Meet the team page and a Contact us page but during mockup it seemed more 
+
+logical to have the "About" section on the home page as in effect it was part of the buisness philosophy. Therefore it was decided 
+
+the "About" section was to be on the home page with the customer testimonials.The Meet the team page therefore displayed the portfolio 
+
+of the proprioter and other services only.
+
+
+Studiofettle brand image was initially to be the focal point of the header section with the header in the centre, logo to the right and 
+
+nav bar to the left. However there was an issue with the logo so the header design was changed to house only the brand image and the navbar.
+
+
+The Contact page mockup was created with a radio button, however after discussion with my mentor it was agreed that a checkbox 
+
+would be more beneficial if the user wanted to inquire about more than one service.
+
 ### Surface
 
 ## Features
@@ -78,13 +100,29 @@ As a potential client, the user would like to -
 
 ## Technologies Used
 
+- html
+- css
+- bootstrap
+- github
+- gitpod
+
 ## Testing
 
 ## Deployment
 
 ## Credits
 ### Websites reviewed
+
+- https://www.markdownguide.org/basic-syntax/
+  - to reference how to use Markdown
+- https://loremipsum.io/generator/
+  - for text place holder
+- https://www.w3schools.com/
+  - specifically the 3 columns section
+
 ### Media used
+
+- Logo, Studiofettle - Proprieter 
 
 ### Acknowledgements
 
