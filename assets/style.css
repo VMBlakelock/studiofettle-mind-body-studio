@@ -81,6 +81,12 @@ p, h3 {
     padding: 10px;
 }
 
+/*section - images x3  */
+ .column {
+float: left;
+width: 33.33%;
+padding: 5px;
+ }
 
 /*section title - About us  */
 
