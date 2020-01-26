@@ -31,12 +31,14 @@ margin: 50px;
 
 .heading {
 margin-left: 50px;
+margin-right: 50px;
 }
 
 .logo {
 background: url("../assets/images/studiofettle-logo.jpg");
 background-position: center;
 background-repeat: no-repeat;
+border-radius: 20px;
 background-size: cover;
 min-height: 360px;
 transition: all .5s ease-in-out;
@@ -49,6 +51,7 @@ transition: all .5s ease-in-out;
 .navbar {
     font-family: "ubuntu", sans-serif;
     font-size: 20px;
+    border-radius: 20px;
     margin-top: 5px;
     margin-right: 15px;
 }
@@ -64,6 +67,7 @@ h1 {
 }
 
 /*company philosophy */
+
 h3 {
     font-family: 'Ubuntu', sans-serif;
     font-size: 50px;
@@ -78,16 +82,16 @@ p, h3 {
     font-size: 30px;
     color: grey;
     text-align: center;
-    text
     padding: 10px;
 }
 
 /*section - images x3  */
+
  .column {
-float: left;
-width: 33.33%;
-padding: 5px;
- }
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
 
 /*section title - About us  */
 
@@ -99,14 +103,17 @@ h2 {
     padding: 30px;
 }
 
+/*section title - Testimonials  */
+
 
 
 /* 3 column contact footer  */
+
  .column {
-float: left;
-width: 33.33%;
-padding: 5px;
- }
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
 
 /* copyright footer */
 
