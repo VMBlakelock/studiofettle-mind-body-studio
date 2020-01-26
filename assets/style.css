@@ -57,7 +57,7 @@ transition: all .5s ease-in-out;
 
 h1 {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 50px;
+    font-size: 60px;
     color: grey;
     text-align: center;
     padding: 30px;
@@ -66,7 +66,7 @@ h1 {
 /*company philosophy */
 h3 {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 30px;
+    font-size: 50px;
     color: grey;
     text-align: center;
     text-decoration: underline;
@@ -75,9 +75,10 @@ h3 {
 
 p, h3 {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 20px;
+    font-size: 30px;
     color: grey;
     text-align: center;
+    text
     padding: 10px;
 }
 
@@ -98,6 +99,14 @@ h2 {
     padding: 30px;
 }
 
+
+
+/* 3 column contact footer  */
+ .column {
+float: left;
+width: 33.33%;
+padding: 5px;
+ }
 
 /* copyright footer */
 
