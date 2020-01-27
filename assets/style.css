@@ -7,21 +7,9 @@ body {
 }
 
 .bg-color-navbar {
-    background-color: #ffe499;
+    background-color: #a18b4c;
 }
 
-
-.ui-menu-color-home {
-    background-color: #7035b4;
-}
-
-.ui-menu-color-meet-the-team {
-    background-color: #4835b4;
-}
-
-.ui-menu-color-contact-us {
-    background-color: #35b45b;
-}
 
 /*-----------------------header----------------*/
 
@@ -47,7 +35,6 @@ transition: all .5s ease-in-out;
 }
 
 
-
 .navbar {
     font-family: "ubuntu", sans-serif;
     font-size: 20px;
@@ -60,7 +47,7 @@ transition: all .5s ease-in-out;
 
 h1 {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 60px;
+    font-size: 50px;
     color: grey;
     text-align: center;
     padding: 30px;
@@ -70,20 +57,22 @@ h1 {
 
 h3 {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 50px;
+    font-size: 40px;
     color: grey;
     text-align: center;
     text-decoration: underline;
-    padding: 10px;
+    padding: 5px;
 }
 
-p, h3 {
+#paragraph-size-specific {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 30px;
+    font-size: 20px;
     color: grey;
     text-align: center;
-    padding: 10px;
+    padding: 5px;
+    margin-bottom: 20px
 }
+
 
 /*section - images x3  */
 
@@ -95,17 +84,38 @@ p, h3 {
 
 /*section title - About us  */
 
+/*note: h2 header will be used for - About us and Testimonial headings */
+
 h2 {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 50px;
+    font-size: 40px;
     color: grey;
     text-align: left;
     padding: 30px;
 }
 
+#about-us-paragraph {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 20px
+}
+
+
 /*section title - Testimonials  */
 
+/*h2 header will be used for - About us and Testimonial headings */
 
+#testimonials {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
 
 /* 3 column contact footer  */
 
