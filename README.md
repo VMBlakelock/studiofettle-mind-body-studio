@@ -71,8 +71,38 @@ As a potential client, the user would like to -
 ### The 5 planes
 
 ### Strategy
+
+The website is a business site to promote a real business with the aim to draw in new clients and promote event to current users.
+
+It was to act as a secondary media to the popular social media page by showcasing the studio and its services.
+
+The brand philosophy "working order" and "optimal state of wellbeing" was required to be a major part of the content.
+
+During research it was found that there are many gyms/fitness centres in the local area, however their mantra's where to "get fit"
+
+"tone up" "work hard", therefore studiofettle is unique in the fact that it is not a gym, it is a wellbeing centre that promotes
+
+health, fitness, wellbieng of the mind and the body.
+
+
 ### Scope
+
+Project scope was based on simplicity. The design was to be 3 pages with a defined header and footer. 
+
+Have a menu to navigate easily around the site. Provide a call to action in the form of a contact form, to entice users to get in touch.
+
+The users must have feedback that thier message has been sent.
+
+
 ### Structure
+
+The structure of the website was to be simple. The clients at studiofettle are of various demographics (age, gender, life experiences) 
+
+therefore the 3 pages needed to replicate each other in the header and footer and house easy to view and read sections. Navigation
+
+was to be easy and links minimal.
+
+
 ### Skeleton
 #### Wireframes
 
@@ -101,11 +131,34 @@ The Contact page mockup was created with a radio button, however after discussio
 
 would be more beneficial if the user wanted to inquire about more than one service.
 
+
 ### Surface
+
+Colors and fonts where important to the website to promote a calming, peaceful feel good reaction. Therefore the logo "sandy" colors and the greys and blues
+
+of the studio decor where incoporated.
+
+Users will see that studiofettle is something special and will be able to move easily around the site to ascertain more.
+
 
 ## Features
 ### Existing Features
+
+Home page - features the brand logo, a menu bar for easy navigation, contact details and socal media link.
+
+Our Services - features the various services on offer and thier individual brands.
+
+Contact us - features a "call to action", in the form of a contact form.
+
+
 ### Future Features
+
+In the future it is hoped the studiofettle website - 
+- can link to the inhouse services brands websites or social media pages directly.
+- will house more professional images.
+- wil have an additional page presenting inspiring "success stories" from clients.
+- A Blog
+
 
 ## Technologies Used
 
@@ -115,23 +168,41 @@ would be more beneficial if the user wanted to inquire about more than one servi
 - github
 - gitpod
 
+
 ## Testing
 
+
 ## Deployment
+
 
 ## Credits
 ### Websites reviewed
 
 - https://www.markdownguide.org/basic-syntax/
   - to reference how to use Markdown
+
 - https://loremipsum.io/generator/
-  - for text place holder
+  - for text placeholder
+
 - https://www.w3schools.com/
-  - specifically the 3 columns section
+  - various topic where reviewed during build
+
+- https://fontawesome.com/
+  - for Facebook icon
+
+- https://getbootstrap.com/
+  - reviewed and used throughout the project
+
 
 ### Media used
 
-- Logo, Studiofettle - Proprieter 
+- Logo and images, Studiofettle - Rachael B - Proprieter 
+- External Images, Ben K - Local photographer
+- Buisness Logo, Yoga Moves
+- Buisness Logo, Genevieve Pilates
+- Buisness Logo, Amanda M - Healer
+- Buisness Logo,  Rob M - Hypnotherapist
+
 
 ### Acknowledgements
 
