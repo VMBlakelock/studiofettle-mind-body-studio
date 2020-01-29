@@ -24,7 +24,7 @@ margin-right: 50px;
 
 .logo {
 background: url("../assets/images/studiofettle-logo.jpg");
-background-position: center;
+background-position: right;
 background-repeat: no-repeat;
 border-radius: 20px;
 background-size: cover;
