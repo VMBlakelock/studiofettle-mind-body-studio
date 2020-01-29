@@ -2,11 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" type="text/css"> 
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"type="text/css"> 
-    <link rel="stylesheet" href="assets/style.css" type="text/css"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+<link rel="stylesheet" href="assets/style.css" type="text/css">
+
 
     <title>studiofettle mind & body studio</title>
 </head>
@@ -16,26 +17,30 @@
 <!-- Logo and Navbar -->
 
 <header>
-
+<div class="container">
 <div class="row">
 <a href="index.html" class="col-md-6 logo"></a>
 <div class="col-md-6">
 <div class="col heading">
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-<div class="row">
-<div class="col">
-<ul id="nav" class="list-inline">
-   <li class="col-6 col-sm-3 list-inline-item">
-    <a href="index.html"><span>Home</span></a></li>
-    <li class="col-6 col-sm-3 list-inline-item">
-    <a href="our-services.html"><span>Our Services</span></a></li>
-    <li class="col-6 col-sm-3 list-inline-item">
-    <a href="contact-us.html"><span>Contact Us</span></a></li>
-    </ul>
-</div>
-</div>
-</div>
-</div>
+  <a class="navbar-brand" href="index.html">Studiofettle</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="our-services.html">Our Services</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="join-us.html">Join Us</a>
+      </li>
+         </ul>
+  </div>
+</nav>
 
 </header>
 
@@ -53,7 +58,24 @@
 
     <!-- 1st section - Proprietor Bio -->
 
-<section id="Bio">
+
+    <section id="images">
+    <div class="container">
+    <div class="row">
+    <div class="column">
+    <img src="assets/images/studio-massage-image.jpg" alt="massage" style="width:100%" class="img-thumbnail"/></div>
+    <div class="column">
+    <img src="assets/images/studio-yoga-image.jpg" alt="yoga" style="width:100%" class="img-thumbnail"/></div>
+    <div class="column">
+    <img src="assets/images/studio-massage-image.jpg" alt="massage" style="width:100%" class="img-thumbnail"/></div>
+    </div>
+</div>
+</div>
+    </section>
+
+
+
+<section id="bio">
   <h2>Proprietor Bio</h2>
    <div class="row">
   <div class="col-md-6">
@@ -67,17 +89,17 @@
 
     <!-- 2nd section - services - row 1 -->
 
-  <section id="Services">
+  <section id="services">
   <h2>Our Services</h2>
    <div class="row">
   <div class="col-md-3">
-<p id=services>Studiofettle Personal Training</p>
+<p id="services">Studiofettle Personal Training</p>
 </div>
 <div class="col-md-3">
 <p>Image</p>
 </div>
 <div class="col-md-3">
-<p id=services>Yoga Moves</p>
+<p id="services">Yoga Moves</p>
 </div>
 <div class="col-md-3">
 <p>Image</p>
@@ -88,13 +110,13 @@
 
 <div class="row">
 <div class="col-md-3">
-<p id=services>Genevieve Pilates</p>
+<p id="services">Genevieve Pilates</p>
 </div>
 <div class="col-md-3">
 <p>Image</p>
 </div>
 <div class="col-md-3">
-<p id=services>Massage Therapy</p>
+<p id="services">Massage Therapy</p>
 </div>
 <div class="col-md-3">
 <p>Image</p>
@@ -104,8 +126,33 @@
 
     <!-- Footer - Contact details -->
 
-<footer></footer>
+<footer>
+    <div class="container">
+    <div class="row">
+    <div class="column">
+    <h4>Address</h4>
+       <p>Wilton Road, Humberston</p>
+       <p>NE Lincs, DN31 XXX</p>
+  </div>
+  <div class="column">
+    <h4>Contact Details</h4>
+    <p>Tel: 01472 xxxxxx</p>
+    <p>Email: studiofettle@info.co.uk</p>
+  </div>
+  <div class="column">
+    <h4>Social Media</h4>
+    <a href="https://www.facebook.com/studiofettle/" i class="fab fa-facebook-square" style="font-size:48px"></i></a>
+  </div>
+</div>
+</div>
+        </footer>
 
         <footer>copyright: vixwebdesigns.co.uk</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+
 </body>
 </html>

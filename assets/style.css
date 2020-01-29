@@ -28,7 +28,7 @@ background-position: right;
 background-repeat: no-repeat;
 border-radius: 20px;
 background-size: cover;
-min-height: 360px;
+min-height: 200px;
 transition: all .5s ease-in-out;
 -moz-transition: all .5s ease-in-out;
 -webkit-transition: all .5s ease-in-out;
@@ -52,7 +52,7 @@ h1 {
     font-size: 50px;
     color: grey;
     text-align: center;
-    padding: 30px;
+    padding: 10px;
 }
 
 /*company philosophy */
