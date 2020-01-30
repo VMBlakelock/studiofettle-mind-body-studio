@@ -42,8 +42,7 @@ The proprietor would like the website to -
 
 - The "Join us" page will allow
   1. The user to click on a service(s) they are interested in and be able to message the studio with questions
-  2. House a small gallery
-  
+    
  
 **Current client**
 
@@ -54,6 +53,7 @@ As a current user of this studio, the user would like -
 
 As future features - 
 - To be able to book in own massage, beauty, yoga slots online.
+- To view a gallery 
 - To read a Studiofettle blog.
 - To be able to navigate to the services own brand websites, or social media platforms.
 
@@ -68,7 +68,10 @@ As a potential client, the user would like to -
 (via a contact form direct from site, via a link to social media, telephone or business email)
 
 As future features - 
-As above for current clients.
+- To be able to book in own massage, beauty, yoga slots online.
+- To view a gallery 
+- To read a Studiofettle blog.
+- To be able to navigate to the services own brand websites, or social media platforms.
 
 
 ## The 5 planes
@@ -110,9 +113,14 @@ Navigation was to be easy and links minimal.
 #### Wireframes
 
 Wireframes were created for Desktop and Mobile devices in the first instance as drawings and then recreated using Balsamiq.
+https://balsamiq.com/wireframes/
 
 ## Links
- - Desktop  - Home / Our Services / Join Us
+
+ Desktop 
+ - Home 
+ - Our Services 
+ - Join Us
 
 The initial idea with the owner was to have a Home page, About/Meet the team page and a Contact us page but during mockup it seemed more 
 
@@ -164,8 +172,9 @@ Join Us - features a "call to action", by means of a contact form.
 In the future it is hoped the Studiofettle website - 
 - can link to the inhouse services brands websites or social media pages directly.
 - will house more professional images.
-- wil have an additional page presenting inspiring "success stories" from clients.
-- A Studiofettle Blog
+- will have an additional page presenting inspiring "success stories" from clients.
+- house a gallery.
+- a Studiofettle Blog.
 
 
 ## Technologies Used
@@ -203,7 +212,7 @@ Here are some website used to review and assist in the making of this project.
   - for Facebook icon
 
 - https://getbootstrap.com/
-  - reviewed and used throughout the project
+  - reviewed and used throughout the project, (Navbar and form)
 
 
 ### Media used
