@@ -112,9 +112,7 @@ Navigation was to be easy and links minimal.
 Wireframes were created for Desktop and Mobile devices in the first instance as drawings and then recreated using Balsamiq.
 
 ## Links
- - Home
- - Our Services
- - Join Us
+ - Desktop  - Home / Our Services / Join Us
 
 The initial idea with the owner was to have a Home page, About/Meet the team page and a Contact us page but during mockup it seemed more 
 
@@ -177,6 +175,8 @@ In the future it is hoped the Studiofettle website -
 - Bootstrap
 - Github
 - Gitpod
+- Git
+- Balsamiq
 
 
 ## Testing
@@ -213,9 +213,21 @@ Here are some website used to review and assist in the making of this project.
 - Buisness Logo, Yoga Moves
 - Buisness Logo, Genevieve Pilates
 - Buisness Logo, Amanda M - Healer
-- Buisness Logo,  Rob M - Hypnotherapist
+- Buisness Logo, Rob M - Hypnotherapist
+
+- Font Awesome
+- Google Fonts
+
 
 
 ### Acknowledgements
+
+Many thanks to all the people who assisted in creating this project - 
+
+My sister for using her business as a test site
+
+The Slack Community
+
+Code Institute
 
 *created for education purposes only*
