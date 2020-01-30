@@ -101,9 +101,9 @@ The users must have feedback that their message has been sent.
 
 The structure of the website was to be simple. The clients at studiofettle are of various demographics (age, gender, life experiences) 
 
-therefore the 3 pages needed to replicate each other in the header and footer and house easy to view and read sections. Navigation
+therefore the 3 pages needed to replicate each other in the header and footer and house easy to view and read sections. 
 
-was to be easy and links minimal.
+Navigation was to be easy and links minimal.
 
 
 ### Skeleton
@@ -111,6 +111,10 @@ was to be easy and links minimal.
 
 Wireframes were created for Desktop and Mobile devices in the first instance as drawings and then recreated using Balsamiq.
 
+## Links
+ - Home
+ - Our Services
+ - Join Us
 
 The initial idea with the owner was to have a Home page, About/Meet the team page and a Contact us page but during mockup it seemed more 
 
