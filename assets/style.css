@@ -3,13 +3,14 @@
 /*-----------------------colors----------------*/
 
 body {
-    background-color: #a3a375;
+    background-color: grey;
 }
 
 .bg-color-navbar {
-    background-color: #a18b4c;
+    background-color:grey;
 }
 
+/*-----------end of colors----------------*/
 
 /*-----------------------header----------------*/
 
@@ -20,7 +21,7 @@ margin: 50px;
 /*---------------header-container------------*/
 
 .container {
-background-color: #a35ba3;
+background-color: grey;
 width: 1200px;
 margin-left: auto;
 margin-right: auto;
@@ -47,6 +48,7 @@ transition: all .5s ease-in-out;
 -webkit-transition: all .5s ease-in-out;
 }
 
+/*------------------nav bar from bootstrap ----------------*/
 
 .navbar {
     font-family: "ubuntu", sans-serif;
@@ -58,13 +60,15 @@ transition: all .5s ease-in-out;
     margin-left: 0px;
 }
 
+/*----------------end of header----------------*/
 
-/*-----------company-name ------------------*/
+/*---------------section 1 - all pages---------------------*/
+/*---------------company-name -----------------*/
 
 h1 {
     font-family: 'Ubuntu', sans-serif;
     font-size: 50px;
-    color: grey;
+    color: rgb(38, 189, 194);
     text-align: center;
     padding: 10px;
 }
@@ -74,7 +78,7 @@ h1 {
 h3 {
     font-family: 'Ubuntu', sans-serif;
     font-size: 40px;
-    color: grey;
+    color:rgb(38, 189, 194);
     text-align: center;
     padding: 5px;
 }
@@ -86,14 +90,15 @@ text-decoration: underline
 #paragraph-size-specific {
     font-family: 'Ubuntu', sans-serif;
     font-size: 20px;
-    color: grey;
+    color: rgb(38, 189, 194);
     text-align: center;
     padding: 5px;
     margin-bottom: 20px
 }
 
+/*----------------end of section 1 - all pages-------------------*/
 
-/*section - images x3  */
+/*----------------section 2 - all pages - images x3----------------*/
 
  .column {
     float: left;
@@ -101,16 +106,18 @@ text-decoration: underline
     padding: 5px;
 }
 
-/*section title - About us  */
+/*----------------end of section 2 - all pages - images x3----------------*/
 
-/*note: h2 header will be used for - About us and Testimonial headings */
+/*-------------section 3 - home page - about us-----  */
+/*---------note: h2 header will be used for sub headings------- */
 
 h2 {
     font-family: 'Ubuntu', sans-serif;
     font-size: 40px;
-    color: grey;
+    color: rgb(38, 189, 194);
     text-align: left;
-    padding: 30px;
+    padding: 20px;
+    margin-left: 30px;
 }
 
 #about-us-paragraph {
@@ -123,23 +130,21 @@ h2 {
 }
 
 
-/*section title - Testimonials  */
-
-/*h2 header will be used for - About us and Testimonial headings */
+/*--------------section 3 home page - testimonials----------------  */
 
 #testimonials {
     font-family: 'Ubuntu', sans-serif;
     font-size: 20px;
     color: black;
-    margin-left: 50px;
+    margin-left: 30px;
     margin-right: 50px;
     margin-bottom: 30px;
 }
 
+/*--------------end of section 3 home page-----------------  */
 
-/*section title - Join Us  */
-/*h2 header will be used for - Join Us */
-/* 3 column contact footer  */
+/*------------------------footer-------------------------*/
+/*--------------section 4 - 3 column contact footer---------------*/
 
  .column {
     float: left;
@@ -151,20 +156,41 @@ h2 {
 font-size: 50px;
 }
 
-/* copyright footer */
+
+/*----------copyright footer------------*/
 
 footer {
     font-family: 'Ubuntu', sans-serif;
     color: black;
     text-align: center;
     padding: 10px;
+    margin-left: 30px;
 }
 
-/*Our Services Page - Bio write up  */
+/*----------end of footer------------*/
+
+/*--------section 3 - our services page - bio write up-------------  */
 
 #bio {
     font-family: 'Ubuntu', sans-serif;
     color: black;
     text-align: right;
     padding: 100px;
+    margin-left: 30px;
 }
+
+/*----------end of section 3 - our services page - bio write up------------*/
+
+/*----------section 4 - our services page - our services ------------*/
+
+#services {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    color: black;
+    margin-left: 30px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+
+
+/*----------end of section 4 - our services page - our services ------------*/
