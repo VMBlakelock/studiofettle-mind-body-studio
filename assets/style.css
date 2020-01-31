@@ -136,12 +136,9 @@ h2 {
     margin-bottom: 30px;
 }
 
+
 /*section title - Join Us  */
-
 /*h2 header will be used for - Join Us */
-
-
-
 /* 3 column contact footer  */
 
  .column {
@@ -161,4 +158,13 @@ footer {
     color: black;
     text-align: center;
     padding: 10px;
+}
+
+/*Our Services Page - Bio write up  */
+
+#bio {
+    font-family: 'Ubuntu', sans-serif;
+    color: black;
+    text-align: right;
+    padding: 100px;
 }
