@@ -6,16 +6,15 @@ body {
     background-color: grey;
 }
 
-
 /*-------end of colors------*/
 
 /*-------header--------*/
 
 header {
-margin: 50px;
+    margin: 50px;
 }
 
-/*-------header-container------*/
+/*-------header-container and navbar------*/
 
 .container {
 background-color: yellow;
@@ -24,11 +23,12 @@ margin-left: auto;
 margin-right: auto;
 }
 
-
 .heading {
 margin-left: 50px;
 margin-right: 50px;
 }
+
+/*---end of header-container and nav bar------*/
 
 /*---------header-logo--------*/
 /*-----animation code from code institute teaching videos-------*/
@@ -37,7 +37,6 @@ margin-right: 50px;
 background: url("../assets/images/studiofettle-logo.jpg");
 background-position: right;
 background-repeat: no-repeat;
-border-radius: 10px;
 background-size: cover;
 min-height: 200px;
 transition: all .5s ease-in-out;
