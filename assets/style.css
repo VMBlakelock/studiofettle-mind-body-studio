@@ -10,6 +10,7 @@ body {
     background-color:grey;
 }
 
+
 /*-----------end of colors----------------*/
 
 /*-----------------------header----------------*/
@@ -21,8 +22,8 @@ margin: 50px;
 /*---------------header-container------------*/
 
 .container {
-background-color: grey;
-width: 1200px;
+background-color: yellow;
+width: 800px;
 margin-left: auto;
 margin-right: auto;
 }
