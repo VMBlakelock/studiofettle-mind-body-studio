@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap:100,200,300,400,500,600,700');
 
-/*-----------------------colors----------------*/
+/*-------colors--------*/
 
 body {
     background-color: grey;
@@ -11,19 +11,19 @@ body {
 }
 
 
-/*-----------end of colors----------------*/
+/*-------end of colors------*/
 
-/*-----------------------header----------------*/
+/*-------header--------*/
 
 header {
 margin: 50px;
 }
 
-/*---------------header-container------------*/
+/*-------header-container------*/
 
 .container {
 background-color: yellow;
-width: 800px;
+width: 1200px;
 margin-left: auto;
 margin-right: auto;
 }
@@ -34,7 +34,7 @@ margin-left: 50px;
 margin-right: 50px;
 }
 
-/*---------------header-logo------------*/
+/*---------header-logo--------*/
 /*-----animation code from code institute teaching videos-------*/
 
 .logo {
@@ -49,7 +49,7 @@ transition: all .5s ease-in-out;
 -webkit-transition: all .5s ease-in-out;
 }
 
-/*------------------nav bar from bootstrap ----------------*/
+/*-----nav bar from bootstrap -----*/
 
 .navbar {
     font-family: "ubuntu", sans-serif;
@@ -61,10 +61,10 @@ transition: all .5s ease-in-out;
     margin-left: 0px;
 }
 
-/*----------------end of header----------------*/
+/*-------end of header---------*/
 
-/*---------------section 1 - all pages---------------------*/
-/*---------------company-name -----------------*/
+/*-------section 1 - all pages---------*/
+/*------company-name---------*/
 
 h1 {
     font-family: 'Ubuntu', sans-serif;
@@ -74,7 +74,7 @@ h1 {
     padding: 10px;
 }
 
-/*------------company-philosophy-------------- */
+/*--------company-philosophy--------*/
 
 h3 {
     font-family: 'Ubuntu', sans-serif;
@@ -97,9 +97,9 @@ text-decoration: underline
     margin-bottom: 20px
 }
 
-/*----------------end of section 1 - all pages-------------------*/
+/*------end of section 1 - all pages--------*/
 
-/*----------------section 2 - all pages - images x3----------------*/
+/*------section 2 - all pages - images x3--------*/
 
  .column {
     float: left;
@@ -107,10 +107,10 @@ text-decoration: underline
     padding: 5px;
 }
 
-/*----------------end of section 2 - all pages - images x3----------------*/
+/*------end of section 2 - all pages - images x3----*/
 
-/*-------------section 3 - home page - about us-----  */
-/*---------note: h2 header will be used for sub headings------- */
+/*---section 3 - home page - about us----*/
+/*----note: h2 header will be used for sub headings------- */
 
 h2 {
     font-family: 'Ubuntu', sans-serif;
@@ -131,7 +131,7 @@ h2 {
 }
 
 
-/*--------------section 3 home page - testimonials----------------  */
+/*------section 3 home page - testimonials------*/
 
 #testimonials {
     font-family: 'Ubuntu', sans-serif;
@@ -142,10 +142,10 @@ h2 {
     margin-bottom: 30px;
 }
 
-/*--------------end of section 3 home page-----------------  */
+/*-----end of section 3 home page-----*/
 
-/*------------------------footer-------------------------*/
-/*--------------section 4 - 3 column contact footer---------------*/
+/*-----footer-------*/
+/*- ---section 4 - 3 column contact footer-----*/
 
  .column {
     float: left;
@@ -158,7 +158,7 @@ font-size: 50px;
 }
 
 
-/*----------copyright footer------------*/
+/*----copyright footer-----*/
 
 footer {
     font-family: 'Ubuntu', sans-serif;
@@ -168,9 +168,9 @@ footer {
     margin-left: 30px;
 }
 
-/*----------end of footer------------*/
+/*------end of footer------*/
 
-/*--------section 3 - our services page - bio write up-------------  */
+/*------section 3 - our services page - bio write up-----*/
 
 #bio {
     font-family: 'Ubuntu', sans-serif;
@@ -180,9 +180,9 @@ footer {
     margin-left: 30px;
 }
 
-/*----------end of section 3 - our services page - bio write up------------*/
+/*------end of section 3 - our services page - bio write up-----*/
 
-/*----------section 4 - our services page - our services ------------*/
+/*------section 4 - our services page - our services------*/
 
 #services {
     font-family: 'Ubuntu', sans-serif;
@@ -194,4 +194,4 @@ footer {
 }
 
 
-/*----------end of section 4 - our services page - our services ------------*/
+/*-----end of section 4 - our services page - our services-------*/
