@@ -111,7 +111,7 @@ h2 {
 
 #about-us-paragraph {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     color: black;
     text-align: center;
     padding: 5px;
@@ -123,8 +123,10 @@ h2 {
 
 #testimonials {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 20px;
+    font-size: 15px;
     color: black;
+    text-align: center;
+    padding: 5px;
     margin-left: 30px;
     margin-right: 50px;
     margin-bottom: 30px;
