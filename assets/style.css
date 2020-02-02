@@ -22,14 +22,13 @@ margin-right: 50px;
 
 /*---end of header-container and nav bar------*/
 
-/*---------header-logo--------*//
+/*---------header-logo--------*/
 
 .logo {
-background: url("../assets/images/studiofettle-logo.jpg");
 background-position: right;
 background-repeat: no-repeat;
 background-size: cover;
-min-height: 200px;
+min-height: 50px;
 transition: all .5s ease-in-out;
 -moz-transition: all .5s ease-in-out;
 -webkit-transition: all .5s ease-in-out;
