@@ -1,37 +1,28 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap:100,200,300,400,500,600,700');
 
-/*-------colors--------*/
 
 body {
-    background-color: grey;
+    background-color: white;
 }
 
-/*-------end of colors------*/
-
-/*-------header--------*/
-
-header {
-    margin: 0px;
-}
 
 /*-------header-container and navbar------*/
 
-.container {
-background-color: yellow;
+.container-fluid {
+background-color: grey;
 width: 1200px;
 margin-left: auto;
 margin-right: auto;
 }
 
 .heading {
-margin-left: 50px;
-margin-right: 50px;
+margin-left: 0px;
+margin-right: 0px;
 }
 
 /*---end of header-container and nav bar------*/
 
-/*---------header-logo--------*/
-/*-----animation code from code institute teaching videos-------*/
+/*---------header-logo--------*//
 
 .logo {
 background: url("../assets/images/studiofettle-logo.jpg");
