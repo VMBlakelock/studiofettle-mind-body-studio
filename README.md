@@ -190,6 +190,10 @@ In the future it is hoped the Studiofettle website -
 
 ## Testing
 
+Issue 1: It was found that I had built my project for desktop and not started it for Mobile First design. Therefore the webpage was not resposive to Iphone
+
+simulation in Google Dev tools. Therefore I had to revisit the course module on Bootstrap grid to to gain better understanding.
+
 
 ## Deployment
 
