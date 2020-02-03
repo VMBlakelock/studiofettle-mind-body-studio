@@ -5,9 +5,8 @@ body {
     background-color: white;
 }
 
-.bg-color-main {
-background-color: grey;
-
+.bg-col-main {
+    background-color: grey;
 }
 
 .font-main {
@@ -15,7 +14,7 @@ background-color: grey;
 }
 
 
-/*-------header-container and navbar------*/
+/*---header-container and navbar---*/
 
 
 .heading {
