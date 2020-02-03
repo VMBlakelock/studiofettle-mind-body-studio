@@ -6,14 +6,11 @@ body {
 }
 
 
+
+
 /*-------header-container and navbar------*/
 
-.container-fluid {
-background-color: grey;
-width: 1200px;
-margin-left: auto;
-margin-right: auto;
-}
+
 
 .heading {
 margin-left: 50px;
