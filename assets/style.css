@@ -14,24 +14,9 @@ body {
 }
 
 
-/*---------header-logo--------*/
-
-.logo {
-background-position: right;
-background-repeat: no-repeat;
-background-size: cover;
-min-height: 50px;
-transition: all .5s ease-in-out;
--moz-transition: all .5s ease-in-out;
--webkit-transition: all .5s ease-in-out;
-}
-
 /*-----nav bar from bootstrap -----*/
 
 .navbar {
-    font-family: "ubuntu", sans-serif;
-    font-size: 15px;
-    text-align: left;
     margin-top: 60px;
     margin-right: 30px;
     margin-left: 0px;
