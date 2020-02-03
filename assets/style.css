@@ -14,21 +14,18 @@ body {
 }
 
 
-/*-----nav bar from bootstrap -----*/
+/*---navbar from bootstrap---*/
 
 .navbar {
     margin-top: 30px;
     margin-right: 30px;
     margin-left: 30px;
-
 }
-
-/*-------end of header---------*/
 
 /*-------section 1 - all pages---------*/
 /*------company-name---------*/
 
-h1 {
+.studiofettle {
     font-family: 'Ubuntu', sans-serif;
     font-size: 50px;
     color: rgb(38, 189, 194);
