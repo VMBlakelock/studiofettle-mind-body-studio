@@ -8,9 +8,14 @@ body {
 .bg-color-main {
 background-color: grey;
 
+}
+
+.font-main {
+    font-family: "ubuntu", sans-serif;
+}
+
 
 /*-------header-container and navbar------*/
-
 
 
 .heading {
