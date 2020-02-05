@@ -114,7 +114,7 @@ Navigation was to be easy and links minimal.
 ### Skeleton
 #### Wireframes
 
-Wireframes were created for Desktop and Mobile devices in the first instance as drawings and then recreated using [Balsamiq] (https://balsamiq.com/wireframes/).
+Wireframes were created for Desktop and Mobile devices in the first instance as drawings and then recreated using [Balsamiq] (https://balsamiq.com)
 
 
 The initial idea with the owner was to have a Home page, About/Meet the team page and a Contact us page but during mockup it seemed more 
