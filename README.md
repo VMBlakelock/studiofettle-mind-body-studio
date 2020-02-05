@@ -117,14 +117,14 @@ Navigation was to be easy and links minimal.
 Wireframes were created for Desktop and Mobile devices in the first instance as drawings and then recreated using [Balsamiq](https://balsamiq.com).
 
 **Mobile** 
-- [About Us]()
-- [Our Services]()
-- [Join Us]()
+- [About Us](https://github.com/VMBlakelock/studiofettle-mind-body-studio/blob/master/assets/wireframes/studiofettle%20wireframes%20-%20Mobile%20-%20Home.pdf)
+- [Our Services](https://github.com/VMBlakelock/studiofettle-mind-body-studio/blob/master/assets/wireframes/studiofettle%20wireframes%20-%20Mobile%20-%20Our%20services.pdf)
+- [Join Us](https://github.com/VMBlakelock/studiofettle-mind-body-studio/blob/master/assets/wireframes/studiofettle%20wireframes%20-%20Mobile%20-Join%20Us.pdf)
 
 **Desktop**
-- [About Us]()
-- [Our Services]()
-- [Join Us]()
+- [About Us](https://github.com/VMBlakelock/studiofettle-mind-body-studio/blob/master/assets/wireframes/Studiofettle%20wireframe%20-%20Home.pdf)
+- [Our Services](https://github.com/VMBlakelock/studiofettle-mind-body-studio/blob/master/assets/wireframes/Studiofettle%20wireframe%20-%20Our%20Services.pdf)
+- [Join Us](https://github.com/VMBlakelock/studiofettle-mind-body-studio/blob/master/assets/wireframes/Studiofettle%20wireframe%20-%20Join%20Us.pdf)
 
 The initial idea with the owner was to have a Home page, About/Meet the team page and a Contact Us page but during mockup it seemed more logical to have the 'About' section on the home page as in effect it was part of the buisness philosophy. 
 
