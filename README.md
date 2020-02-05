@@ -114,54 +114,57 @@ Navigation was to be easy and links minimal.
 ### Skeleton
 #### Wireframes
 
-Wireframes were created for Desktop and Mobile devices in the first instance as drawings and then recreated using [Balsamiq] (https://balsamiq.com)
+Wireframes were created for Desktop and Mobile devices in the first instance as drawings and then recreated using [Balsamiq](https://balsamiq.com).
 
+**Mobile** 
+- [About Us]()
+- [Our Services]()
+- [Join Us]()
 
-The initial idea with the owner was to have a Home page, About/Meet the team page and a Contact us page but during mockup it seemed more 
+**Desktop**
+- [About Us]()
+- [Our Services]()
+- [Join Us]()
 
-logical to have the 'About' section on the home page as in effect it was part of the buisness philosophy. Therefore it was decided 
+The initial idea with the owner was to have a Home page, About/Meet the team page and a Contact Us page but during mockup it seemed more logical to have the 'About' section on the home page as in effect it was part of the buisness philosophy. 
 
-the 'About' section was to be on the home page with the customer testimonials. The home page was renamed 'About Us'.
+Therefore it was decided the 'About' section was to be on the home page with the customer testimonials. The home page was renamed 'About Us'.
 
 The 'Meet the team' page therefore displayed the portfolio of the proprieter and other services only. This page was also changes to 'Our Services'.
 
 
-Studiofettle brand image was initially to be the focal point of the header section with the header in the centre, logo to the right and 
+Studiofettle brand image was initially to be the focal point of the header section with the header in the centre, logo to the right and nav bar to the left. 
 
-nav bar to the left. However there was an issue with the logo so the header design was changed to house only the navbar.
+However there was an issue with the logo so the header design was changed to house only the navbar.
 
-The company logo was finally placed in the centre of the images on every page.
-
-There was also some internal staffing changes during the development of this project and the proprietor requested we change the 'Meet the team'
-
-page to a 'Our Services' page instead. 
+The company logo was finally placed in the centre of the image section on every page.
 
 
-The Contact page mockup was created with a radio button, however after discussions it was agreed that a checkbox 
+There were also some internal staffing changes during the development of this project and the proprietor requested we change the 'Meet the team' page to a 'Our Services' page instead. 
 
-would be more beneficial if the user wanted to inquire about more than one service.
+The Contact Us page mockup was created with a radio button, however after discussions it was agreed that a checkbox would be more beneficial if the user wanted to inquire about more than one service.
 
 It was also decided to change the "Contact Us" page to "Join Us" as we felt it was less hard in its voice.
 
 
 ### Surface
 
-Colors and fonts where important to the website to promote a calming, peaceful feel good reaction. Therefore the logo's "sandy" colors and the greys and blues
+Colors and fonts where important to the website to promote a calming, peaceful feel good reaction. 
 
-of the studio decor where incorporated.
+Therefore the logo's "sandy" colors and the greys and blues of the studio decor where incorporated.
 
-Users will see that Studiofettle is a special place and will be able to move easily around the site to ascertain more.
+Users will see that Studiofettle is a reflective studio and will be able to move easily around the site to ascertain more.
 
 
 ## Features
-
 ### Existing Features
 
-About Us - features the brand logo, a navbar for easy navigation, contact details and socal media link.
+**About Us** - features the brand logo, a navbar for easy navigation, contact details and socal media link.
 
-Our Services - features, proprietor bio and the various services on offer and their individual brands.
+**Our Services** - features, proprietor bio and the various services on offer and their individual brands.
 
-Join Us - features a "call to action", by means of a contact form.
+**Join Us** - features a 'Call to Action', by means of a contact form.
+
 
 
 ### Future Features
@@ -179,11 +182,11 @@ In the future it is hoped the Studiofettle website -
 
 - html5
 - css3
-- Bootstrap
-- Github
-- Gitpod
+- [Bootstrap](https://getbootstrap.com/)
+- [Github](https://github.com/)
+- [Gitpod](https://gitpod.io/)
 - Git
-- Balsamiq
+- [Balsamiq](https://balsamiq.com/)
 
 
 ## Testing
@@ -199,7 +202,7 @@ Therefore I had to revisit the course module on Bootstrap grid to to gain better
 
 ## Deployment
 
-In order to deploy the project to GitHub Pages from its GitHub repository, follow the below steps:
+In order to deploy the project to [GitHub](https://github.com/) Pages from its GitHub repository, follow the below steps:
 
 1. On menu bar, select the 'Settings' tab.
 2. Here, Scroll down to the GitHub Pages section.
@@ -225,20 +228,20 @@ If you want to run this project locally, we must clone the project for Github:
 
 Here are some website used to review and assist in the making of this project.
 
-- https://www.markdownguide.org/basic-syntax/
+- [Markdownguide](https://www.markdownguide.org/basic-syntax/)
   - to reference how to use Markdown
 
-- https://loremipsum.io/generator/
+- [LorumIpsumgenerator](https://loremipsum.io/generator/)
   - for text placeholder
 
-- https://www.w3schools.com/
+- [W3Schools](https://www.w3schools.com/)
   - various topics where reviewed during build
 
-- https://fontawesome.com/
+- [Font Awesome](https://fontawesome.com/)
   - for Facebook icon
 
-- https://getbootstrap.com/
-  - reviewed and used throughout the project, (Navbar and form)
+- [Bootstrap](https://getbootstrap.com/)
+  - reviewed documentation and used throughout the project, (Carousel, Navbar and form)
 
 
 ### Media used
@@ -250,20 +253,16 @@ Here are some website used to review and assist in the making of this project.
 - Buisness Logo, Amanda M - Healer
 - Buisness Logo, Rob M - Hypnotherapist
 
-- Font Awesome
-- Google Fonts
-
-
 
 ### Acknowledgements
 
-Many thanks to all the people who assisted in creating this project - 
+Many thanks to all the people who assisted me in creating this project - 
 
-My sister for using her business as a test site
+My sister for allowing me to use her business as a test site
 
-The Slack Community
+The Slack Community, for being on hand to answer all my questions and especially Richard Wells_Lead.
 
-Code Institute
+Code Institute for course content.
 
 
 
