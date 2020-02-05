@@ -97,7 +97,7 @@ During research it was found that there are many gyms/fitness centres in the loc
 
 Project scope was based on simplicity. The design was to be 3 pages with a defined header and footer. 
 
-Have a menu to navigate easily around the site. Provide a call to action in the form of a contact form, to entice users to get in touch.
+Have a menu to navigate easily around the site. Provide a Call to Action by means of a contact form, to entice users to get in touch.
 
 The users must have feedback that their message has been sent.
 
