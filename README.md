@@ -1,9 +1,8 @@
 # Studiofettle Mind & Body Studio
 
 ## Aim 
-To create a business website for a wellbeing studio - Studiofettle, that will showcase the health, fitness and
+To create a business website for a wellbeing studio - Studiofettle, that will showcase the health, fitness and wellbeing services on offer.
 
-wellbeing services on offer.
 
 
 ## Purpose
@@ -11,9 +10,7 @@ The proprietor of Studiofettle requires a website to use as an additional medium
 
 The website will be used as a marketing and advertising tool that will detail the services on offer at Studiofettle. 
 
-In turn it is hoped this website will generate awareness not only of Studiofettle and its services, but also to promote the 
-
-company philosophy that is 'the importance of taking time to look after oneself both in Mind and Body'.
+In turn it is hoped this website will generate awareness not only of Studiofettle and its services, but also to promote the company philosophy that is 'the importance of taking time to look after oneself both in Mind and Body'.
 
 It is hoped the website proves ROI, by more users viewing the site, clicking social media icons to the FB page, and completing the contact form to find out more.
 
@@ -22,11 +19,14 @@ It is hoped the website proves ROI, by more users viewing the site, clicking soc
 ## UX
 ### User stories
 
+**Proprietor**
+
 The proprietor would like the website to -
 
 - Showcase the various services on offer at Studiofettle.
 - Would like the header and footer to stay static and in place on every page throughout the site.
 - Have three pages - Home page, Our Services page and a Join Us page (including a form).
+
 
 - The "Home" page will 
   1. House the business logo 
@@ -37,10 +37,12 @@ The proprietor would like the website to -
   6. Display the studio's location and contact details
   6. Have a social media link to the Facebook platform and Studiofettle's facebook page
 
+
 - The "Our Services" page will 
   1. Hold a bio of the proprietor detailing their role within the buisness, qualification details, images 
   2. Their aspirations to assist clients in meeting their personal goals
   4. Advertise the various services on offer by presenting the individual services brands and logos
+
 
 - The "Join us" page will allow
   1. The user to click on a service(s) they are interested in and be able to message the studio with questions
@@ -52,6 +54,7 @@ As a current user of this studio, the user would like -
 - To see all the services on offer at Studiofettle including their individuals brand.
 - Information of any new services that joins the Studiofettle portfolio.
 - To be inspired by any inhouse events - Studiofettle holds wellbeing workshops and meet and greet sessions for current and new clients.
+
 
 Future features for the current user - 
 - To be able to book in own massage, yoga, counselling slots online.
@@ -69,6 +72,7 @@ As a potential client, the user would like to -
 - Be able to contact the studio with questions
 (via a contact form direct from site, via a link to social media, telephone or business email)
 
+
 Future features for the current user - 
 - To be able to book in own massage, yoga, counselling slots online.
 - To view a gallery 
@@ -78,7 +82,6 @@ Future features for the current user -
 
 
 ## The 5 planes
-
 ### Strategy
 
 The website is a business site to promote a real business with the aim to draw in new clients and promote events to current users.
@@ -87,11 +90,7 @@ It was to act as a secondary media to the popular social media page by showcasin
 
 The brand philosophy "working order" and "optimal state of wellbeing" was required to be a major part of the content.
 
-During research it was found that there are many gyms/fitness centres in the local area, however their mantra's where to "get fit"
-
-"tone up" "work hard", therefore Studiofettle is unique in the fact that it is not a gym, it is a wellbeing centre that promotes
-
-health, fitness, wellbeing of the mind and the body.
+During research it was found that there are many gyms/fitness centres in the local area, however their mantra's where to "get fit" "tone up" "work hard", therefore Studiofettle is unique in the fact that it is not a gym, it is a wellbeing centre that promotes "tone up" "work hard", therefore Studiofettle is unique in the fact that it is not a gym, it is a wellbeing centre that promotes health, fitness and individual wellbeing of the mind and the body.
 
 
 ### Scope
@@ -115,8 +114,7 @@ Navigation was to be easy and links minimal.
 ### Skeleton
 #### Wireframes
 
-Wireframes were created for Desktop and Mobile devices in the first instance as drawings and then recreated using Balsamiq.
-https://balsamiq.com/wireframes/
+Wireframes were created for Desktop and Mobile devices in the first instance as drawings and then recreated using [Balsamiq] (https://balsamiq.com/wireframes/).
 
 
 The initial idea with the owner was to have a Home page, About/Meet the team page and a Contact us page but during mockup it seemed more 
