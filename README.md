@@ -90,7 +90,7 @@ It was to act as a secondary media to the popular social media page by showcasin
 
 The brand philosophy "working order" and "optimal state of wellbeing" was required to be a major part of the content.
 
-During research it was found that there are many gyms/fitness centres in the local area, however their mantra's where to "get fit" "tone up" "work hard", therefore Studiofettle is unique in the fact that it is not a gym, it is a wellbeing centre that promotes "tone up" "work hard", therefore Studiofettle is unique in the fact that it is not a gym, it is a wellbeing centre that promotes health, fitness and individual wellbeing of the mind and the body.
+During research it was found that there are many gyms/fitness centres in the local area, however their mantra's where to "get fit" "tone up" "work hard", therefore Studiofettle is unique in the fact that it is not a gym, it is a wellbeing studio that promotes health, fitness and a sense of wellbeing of the mind and the body.
 
 
 ### Scope
