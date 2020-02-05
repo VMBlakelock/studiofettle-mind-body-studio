@@ -130,10 +130,11 @@ footer {
 #bio {
     font-family: 'Ubuntu', sans-serif;
     color: black;
-    text-align: right;
-    padding: 100px;
-    margin-left: 30px;
+    text-align: center;
+    padding: 50px;
+    margin-left: 0px;
 }
+
 
 /*------end of section 3 - our services page - bio write up-----*/
 
