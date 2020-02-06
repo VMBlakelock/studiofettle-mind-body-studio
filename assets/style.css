@@ -65,7 +65,7 @@ h3 {
 /*---section 3 - home page - about us----*/
 /*----note: h2 header will be used for sub headings------- */
 
-h2 {
+.heading {
     font-family: 'Ubuntu', sans-serif;
     font-size: 40px;
     color: rgb(38, 189, 194);
