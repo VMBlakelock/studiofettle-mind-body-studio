@@ -102,10 +102,8 @@ h2 {
 /*-----footer-------*/
 /*- ---section 4 - 3 column contact footer-----*/
 
- .column {
-    float: left;
-    width: 33.33%;
-    padding: 5px;
+.footer-background {
+    background-color: slategray
 }
 
 #fb-font-size {
