@@ -75,24 +75,18 @@ h2 {
 }
 
 #about-us-paragraph {
-    font-family: 'Ubuntu', sans-serif;
     font-size: 18px;
     color: black;
     text-align: center;
-    padding: 5px;
-    margin-bottom: 20px
 }
-
 
 /*------section 3 home page - testimonials------*/
 
 #testimonials {
-    font-family: 'Ubuntu', sans-serif;
     font-size: 15px;
     color: black;
-    text-align: center;
-    padding: 5px;
-    margin-left: 30px;
+    text-align: center;  
+    margin-left: 50px;
     margin-right: 50px;
     margin-bottom: 30px;
 }
@@ -100,7 +94,7 @@ h2 {
 /*-----end of section 3 home page-----*/
 
 /*-----footer-------*/
-/*- ---section 4 - 3 column contact footer-----*/
+/*- ---section 4 - footer-----*/
 
 .footer-background {
     background-color: slategray
