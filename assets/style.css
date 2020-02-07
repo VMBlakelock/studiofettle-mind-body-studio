@@ -55,6 +55,7 @@ body {
 .heading-2 {
     font-family: 'Ubuntu', sans-serif;
     color: rgb(38, 189, 194); 
+    margin-bottom: 20px;
 }
 
 #about-us-paragraph {
