@@ -249,7 +249,7 @@ Here are some website used to review and assist in the making of this project.
 - [Bootstrap](https://getbootstrap.com/)
   - reviewed documentation and used throughout the project, (Carousel, Navbar and form)
 
-- [stackoverflow](https://stackoverflow.com/questions/5410066/what-are-the-default-font-sizes-in-pixels-for-the-html-heading-tags-h1-h2)
+- [Stackoverflow](https://stackoverflow.com/questions/5410066/what-are-the-default-font-sizes-in-pixels-for-the-html-heading-tags-h1-h2)
  - reviewed regardin Header font sizes
 
 
