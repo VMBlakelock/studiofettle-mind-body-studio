@@ -30,7 +30,7 @@ body {
 
 /*--------company-philosophy--------*/
 
-h3 {
+.heading-3 {
     font-family: 'Ubuntu', sans-serif;
     font-size: 20px;
     color:rgb(38, 189, 194);
