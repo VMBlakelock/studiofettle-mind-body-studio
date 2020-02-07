@@ -199,6 +199,12 @@ Therefore the webpage was not resposive to Iphone simulation in Google Dev Tools
 
 Therefore I had to revisit the course module on Bootstrap grid to to gain better understanding.
 
+Issue 2:
+
+The navbar I just couldnt get right, although it worked I wasnt happy, it wasnt displaying as I liked. After reviewing the Bootstrap code again, I realised the code was incorrect.
+
+Here I realised I had added continers and classes that where not required.
+
 
 ## Deployment
 
