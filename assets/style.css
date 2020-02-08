@@ -17,6 +17,10 @@ body {
     background-color: #708090;
 }
 
+.navbar ul li a {
+    font-family: "ubuntu", sans-serif;
+}
+
 /*-------section 1 - all pages---------*/
 /*------company-name---------*/
 
