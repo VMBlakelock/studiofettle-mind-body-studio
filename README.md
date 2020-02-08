@@ -286,6 +286,8 @@ My sister for allowing me to use her business as a test site
 
 The Slack Community for being on hand to answer any questions. Also Richard Wells_Lead and Anthony O Brien for added encouragement and advice.
 
+Please note  - Anthony O Brien is mentioned in the css file therefore credited accordingly for helping with navbar code.
+
 Code Institute for course content.
 
 
