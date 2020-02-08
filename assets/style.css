@@ -21,6 +21,10 @@ body {
     font-family: "ubuntu", sans-serif;
 }
 
+.navbar ul li a:hover {
+    color: #26bdc2 !important;
+}
+
 .active a {
     color: #6ed8db !important;
 }
