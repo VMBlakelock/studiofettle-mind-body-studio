@@ -215,6 +215,7 @@ I resized the image and added that to the code. However when on desktop it looke
 
 It was decided to leave it larger, so I replaced the resixed image back so it was responsive to mobile and not inline on desktop.
 
+Issue 4: There where some issues left in the html that were noted during validation, how ever I was unable to rectify these.
 
 ## Deployment
 
