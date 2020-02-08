@@ -71,6 +71,11 @@ body {
     margin: 30px, auto;
 }
 
+.spacing {
+margin-top: 1rem;
+scroll-margin-bottom: 1rem;
+}
+
 #about-us-paragraph {
     font-size: 18px;
     color: black;
