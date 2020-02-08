@@ -252,6 +252,8 @@ Here are some website used to review and assist in the making of this project.
 - [Stackoverflow](https://stackoverflow.com/questions/5410066/what-are-the-default-font-sizes-in-pixels-for-the-html-heading-tags-h1-h2)
  - reviewed regardin Header font sizes
 
+-[Pexels](https://www.pexels.com/)
+ - took images for testimonials and join us pages
 
 ### Media used
 
