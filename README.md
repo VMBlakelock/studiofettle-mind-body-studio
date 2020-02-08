@@ -205,6 +205,16 @@ The navbar I just couldnt get right, although it worked I wasnt happy, it wasnt 
 
 Here I realised I had added continers and classes that where not required.
 
+Issue 3:
+
+The three images at the top of the pages where not the same size, however the site still looked good with them out of unison so decided to keep them that way. 
+
+One of the services, massage therapy didnt have a logo so I used an image from the internet. When added into the code it was bigger than the others by height.
+
+I resized the image and added that to the code. However when on desktop it looked ok and inline but on mobile it was out of alignment.
+
+It was decided to leave it larger, so I replaced the resixed image back so it was responsive to mobile and not inline on desktop.
+
 
 ## Deployment
 
@@ -261,7 +271,6 @@ Here are some website used to review and assist in the making of this project.
 - External Images, Ben K - Local photographer
 - Buisness Logo, Yoga Moves
 - Buisness Logo, Genevieve Pilates
-- Buisness Logo, Amanda M - Healer
 - Buisness Logo, Rob M - Hypnotherapist
 
 
