@@ -30,7 +30,6 @@ body {
     color: #6ed8db !important;
 }
 
-/*-------section 1 - all pages---------*/
 /*------company-name---------*/
 
 .studiofettle {
@@ -61,19 +60,17 @@ body {
     margin-bottom: 20px
 }
 
-/*------end of section 1 - all pages--------*/
-
-/*---section 3 - home page - about us----*/
+/*---about us----*/
 
 .heading-2 {
     font-family: 'Ubuntu', sans-serif;
     color: rgb(38, 189, 194); 
-    margin: 30px, auto;
+    margin: 30px auto;
 }
 
 .spacing {
-margin-top: 1rem;
-scroll-margin-bottom: 1rem;
+    margin-top: 1rem;
+    scroll-margin-bottom: 1rem;
 }
 
 #about-us-paragraph {
@@ -82,7 +79,7 @@ scroll-margin-bottom: 1rem;
     text-align: center;
 }
 
-/*------section 3 home page - testimonials------*/
+/*----testimonials------*/
 
 #testimonials {
     font-size: 15px;
@@ -101,12 +98,19 @@ scroll-margin-bottom: 1rem;
     padding: 0 1rem;
 }
 
-/*-----section - our services-----*/
+/*-----our-services-----*/
 
 #bold {
     font-weight: bold;
 }
 
+
+#bio {
+    color: black;
+    text-align: center;
+    padding: 50px;
+    margin-left: 0px;
+}
 
 /*-----footer-------*/
 
@@ -129,15 +133,6 @@ footer {
     margin-left: 30px;
 }
 
-/*------end of footer------*/
+/*------end-of-footer------*/
 
-/*------section 3 - our services page - bio write up-----*/
 
-#bio {
-    color: black;
-    text-align: center;
-    padding: 50px;
-    margin-left: 0px;
-}
-
-/*------end of section 3 - our services page - bio write up-----*/
