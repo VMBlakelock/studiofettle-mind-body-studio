@@ -96,7 +96,11 @@ body {
     padding: 0 1rem;
 }
 
-/*-----end of section 3 home page-----*/
+/*-----section - our services-----*/
+
+#solid {
+    text-decoration-style: solid;
+}
 
 
 /*-----footer-------*/
