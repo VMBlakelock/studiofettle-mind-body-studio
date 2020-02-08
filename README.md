@@ -266,6 +266,9 @@ Here are some website used to review and assist in the making of this project.
 -[Pexels](https://www.pexels.com/)
  - took images for testimonials and join us pages
 
+ -[w3 Validator](https)://validator.w3.org/)
+ - used for validating code
+
 ### Media used
 
 - Logo and images, Studiofettle - Rachael B - Proprieter 
