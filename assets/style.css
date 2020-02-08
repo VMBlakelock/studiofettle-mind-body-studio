@@ -21,6 +21,10 @@ body {
     font-family: "ubuntu", sans-serif;
 }
 
+.active a {
+    color: #6ed8db !important;
+}
+
 /*-------section 1 - all pages---------*/
 /*------company-name---------*/
 
