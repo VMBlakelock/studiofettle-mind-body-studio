@@ -98,8 +98,8 @@ body {
 
 /*-----section - our services-----*/
 
-#solid {
-    text-decoration-style: solid;
+#bold {
+    font-weight: bold;
 }
 
 
