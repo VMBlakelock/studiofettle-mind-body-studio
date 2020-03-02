@@ -1,7 +1,7 @@
 # Studiofettle Mind & Body Studio
 
 ## Aim 
-To create a business website for a wellbeing studio - Studiofettle, that will showcase the health, fitness and wellbeing services on offer.
+To create a business website for the wellbeing studio - Studiofettle, that will showcase the health, fitness and wellbeing services on offer.
 
 
 
@@ -203,19 +203,21 @@ Issue 2:
 
 The navbar I just couldnt get right, although it worked I wasnt happy, it wasnt displaying as I liked. After reviewing the Bootstrap code again, I realised the code was incorrect.
 
-Here I realised I had added continers and classes that where not required.
+Here I realised I had added containers and classes that were not required.
 
 Issue 3:
 
-The three images at the top of the pages where not the same size, however the site still looked good with them out of unison so decided to keep them that way. 
+The three images at the top of the pages were not the same size, however the site still looked good with them out of unison so decided to keep them that way. 
 
 One of the services, massage therapy didnt have a logo so I used an image from the internet. When added into the code it was bigger than the others by height.
 
 I resized the image and added that to the code. However when on desktop it looked ok and inline but on mobile it was out of alignment.
 
-It was decided to leave it larger, so I replaced the resixed image back so it was responsive to mobile and not inline on desktop.
+It was decided to leave it larger, so I replaced the resized image back so it was responsive to mobile and not inline on desktop.
 
-Issue 4: There where some issues left in the html that were noted during validation, how ever I was unable to rectify these.
+Issue 4: 
+
+There where some issues left in the html that were noted during validation, however I was unable to rectify these.
 
 ## Deployment
 
@@ -261,21 +263,21 @@ Here are some website used to review and assist in the making of this project.
   - reviewed documentation and used throughout the project, (Carousel, Navbar and form)
 
 - [Stackoverflow](https://stackoverflow.com/questions/5410066/what-are-the-default-font-sizes-in-pixels-for-the-html-heading-tags-h1-h2)
- - reviewed regardin Header font sizes
+  - reviewed regarding header font sizes
 
--[Pexels](https://www.pexels.com/)
- - took images for testimonials and join us pages
+- [Pexels](https://www.pexels.com/)
+  - took images for testimonials and join us pages
 
- -[w3 Validator](https)://validator.w3.org/)
- - used for validating code
+- [w3 Validator](https://validator.w3.org/)
+  - used for validating code
 
 ### Media used
 
 - Logo and images, Studiofettle - Rachael B - Proprieter 
 - External Images, Ben K - Local photographer
-- Buisness Logo, Yoga Moves
-- Buisness Logo, Genevieve Pilates
-- Buisness Logo, Rob M - Hypnotherapist
+- Business Logo, Yoga Moves
+- Business Logo, Genevieve Pilates
+- Business Logo, Rob M - Hypnotherapist
 
 
 ### Acknowledgements
